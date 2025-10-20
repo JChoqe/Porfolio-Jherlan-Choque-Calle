@@ -1,0 +1,9 @@
+.content-card {
+  margin-bottom: 10px;
+}
+.content-card li {
+  line-height: 1.4;
+}
+.content-title {
+  font-weight: 900;
+}

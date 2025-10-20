@@ -1,0 +1,34 @@
+.about {
+  padding: 0 8rem;
+  min-height: 80vh;
+  padding-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+@media (max-width: 770px) {
+  .about {
+    padding: 0 2rem;
+  }
+}
+
+.about > h2 {
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 0.5rem;
+}
+
+.values-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 0.5rem;
+}

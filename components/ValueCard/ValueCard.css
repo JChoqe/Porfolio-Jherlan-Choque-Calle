@@ -1,0 +1,16 @@
+.value-card {
+    display: grid;
+    grid-template-columns: 1fr 3fr 60px; /* icono, nombre, descripcion, nivel */
+    align-items: center;
+    gap: 1rem;
+    padding: 0.8rem 1rem;
+    padding: 1rem;
+    border: 1px solid var(--primary-dark);
+    border-radius: 0.4rem;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+.value-card:hover {  
+    transform: translateY(-4px);
+    box-shadow: 0 4px 10px var(--highlight);
+}
