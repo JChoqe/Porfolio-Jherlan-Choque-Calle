@@ -21,10 +21,7 @@ export const Home = () => {
       </div>
       
       <p>
-        Soy estudiante de Desarrollo de Aplicaciones Web en ThePower | La Caja Mágica, y actualmente resido en Madrid, España. 
-        Siempre me ha apasionado resolver problemas, y descubrí que la programación era la forma ideal de poner en práctica esa pasión.
-        Estoy explorando diferentes áreas del desarrollo, con especial interés en el backend, las bases de datos y la inteligencia artificial, campos en los que quiero seguir creciendo y aportando valor.
-        A través de mis proyectos, busco adquirir experiencia real, aprender continuamente y dejar mi huella en el mundo digital.
+        Siempre he trabajado resolviendo problemas: primero con datos, luego con personas y hoy con código.
       </p>
     </section>
   `;
