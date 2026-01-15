@@ -11,7 +11,7 @@ export const Home = () => {
       
       <div class="home-header">
         <div class="home-image">
-          <img src="../public/profile/profile.jpg" alt="Jherlan Choque" />
+          <img src="./public/profile/profile.jpg" alt="Jherlan Choque" />
         </div>
         
         <div class="home-text">
