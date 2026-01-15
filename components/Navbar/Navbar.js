@@ -19,8 +19,10 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-<h2>Jherlan Choque </h2>
-<ul>
+  <a href="#">
+    <img src="icons/miLogo.png" alt="Jherlan Choque" />
+  </a>
+  <ul>
     <li>
         <a href="#" id="homelink">Home</a>
     </li>
@@ -33,6 +35,6 @@ export const Navbar = () => `
     <li>
         <button id="themeBtn">☀</button>
     </li>
-</ul>
+  </ul>
 </nav>
 `;

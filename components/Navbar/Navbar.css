@@ -5,6 +5,13 @@ nav {
   align-items: center;
   padding: 0 8rem;
   flex-wrap: wrap;
+  padding-bottom: 125px;
+}
+
+a img {
+  width: 90px; 
+  height: auto; 
+  float: left; 
 }
 
 @media (max-width: 770px) {
