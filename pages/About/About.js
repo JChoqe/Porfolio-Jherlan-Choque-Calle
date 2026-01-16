@@ -23,9 +23,11 @@ export const About = () => {
         <h2>A Little More About My Journey</h2>
         ${Divider()}
         <p>
-          Originalmente soy de Bolivia, y mi camino académico comenzó en la Universidad Complutense de Madrid, en la Facultad de Estudios Estadísticos. Aunque por motivos personales no llegué a terminar la carrera (me quedé entre segundo y tercer año), allí tuve mi primer contacto real con la programación, trabajando con C++ y aprendiendo sobre bases de datos en SQL, SAP, MATLAB, SAS y R.<br><br>
-          Tras dejar la universidad, me introduje en el mundo laboral en sectores de atención al público y transporte, experiencias que me aportaron mucho en cuanto a trabajo en equipo, gestión bajo presión y habilidades interpersonales. Después de tres años en ese entorno, tomé la decisión de retomar los estudios, esta vez con un objetivo mucho más claro: introducirme de lleno en el mundo del desarrollo web.<br><br>
-          Hoy estoy formándome en THEPOWER, explorando hacia dónde quiero orientar mi carrera y construyendo proyectos que me ayuden a crecer como desarrollador y a definir mi propio camino.
+          Siempre he trabajado resolviendo problemas: primero con datos, luego con personas y hoy con código. Mi recorrido no ha sido lineal, pero sí coherente: cada etapa ha reforzado mi forma de pensar y de enfrentar los desafíos. <br> <br>
+          Mi camino académico comenzó en la Universidad Complutense de Madrid, en la Facultad de Estudios Estadísticos. Allí tuve mi primer contacto real con la programación y los datos, trabajando con C++, bases de datos SQL y herramientas como SAP, MATLAB, SAS y R. Aunque no completé la carrera por motivos personales, consolidé una base analítica sólida y una manera estructurada y rigurosa de entender sistemas complejos.<br><br>
+          Más adelante, mi experiencia profesional en sectores de atención al público y transporte me permitió desarrollar una habilidad clave que hoy considero imprescindible: trabajar con personas. Aprendí a comunicarme con claridad, adaptarme a entornos cambiantes y tomar decisiones bajo presión, entendiendo que una buena solución técnica solo funciona si también responde a las necesidades reales de quienes la utilizan.<br><br>
+          Hoy me encuentro dando mis primeros pasos profesionales en el desarrollo web, formándome en THEPOWER y construyendo proyectos que me ayudan a crecer como desarrollador. Me interesa especialmente la lógica de los sistemas y el trabajo con bases de datos, donde siento que puedo aportar mayor valor: transformando procesos ineficientes y datos desordenados en soluciones claras, mantenibles y escalables.<br><br>
+          Mi objetivo es desarrollarme como diseñador de soluciones estratégicas, combinando una visión analítica y humana para crear sistemas que no solo funcionen hoy, sino que sigan teniendo impacto mañana.
         </p>
       </div>
       <div class="content-container">  
