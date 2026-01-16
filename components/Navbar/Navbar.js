@@ -19,13 +19,10 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-  <a href="#">
+  <a href="#" id="homelink">
     <img src="icons/miLogo.png" alt="Jherlan Choque" />
   </a>
   <ul>
-    <li>
-        <a href="#" id="homelink">Home</a>
-    </li>
     <li>
         <a href="#" id="aboutlink">About</a>
     </li>
